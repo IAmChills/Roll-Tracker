@@ -1,4 +1,4 @@
-## Interface: 11505
+## Interface: 11506
 ## Title: Roll Tracker
 ## Notes: Tracks all rolls out of 100 and calculates the average.
 ## Version: 1.0
